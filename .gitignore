@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+mvc5demo/bin/*
+mvc5demo/obj/*
+packages
