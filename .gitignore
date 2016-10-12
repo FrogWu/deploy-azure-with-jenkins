@@ -48,3 +48,4 @@ Temporary Items
 mvc5demo/bin/*
 mvc5demo/obj/*
 packages
+*.suo
